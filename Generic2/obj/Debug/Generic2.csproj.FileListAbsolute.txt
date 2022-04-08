@@ -1,0 +1,8 @@
+C:\Users\visha\source\repos\Generic2\Generic2\bin\Debug\Generic2.exe.config
+C:\Users\visha\source\repos\Generic2\Generic2\bin\Debug\Generic2.exe
+C:\Users\visha\source\repos\Generic2\Generic2\bin\Debug\Generic2.pdb
+C:\Users\visha\source\repos\Generic2\Generic2\obj\Debug\Generic2.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\Generic2\Generic2\obj\Debug\Generic2.csproj.SuggestedBindingRedirects.cache
+C:\Users\visha\source\repos\Generic2\Generic2\obj\Debug\Generic2.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\Generic2\Generic2\obj\Debug\Generic2.exe
+C:\Users\visha\source\repos\Generic2\Generic2\obj\Debug\Generic2.pdb
